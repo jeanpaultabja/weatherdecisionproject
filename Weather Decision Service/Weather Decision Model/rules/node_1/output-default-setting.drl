@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ilog.rules.studio.model.brl:ActionRule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.brl="http://ilog.rules.studio/model/brl.ecore">
+  <name>output-default-setting</name>
+  <uuid>7c7dd0e8-6aba-4d7d-a1dc-df5e025b58c7</uuid>
+  <locale>en_US</locale>
+  <definition><![CDATA[set decision to "Sorry, we do not have enough information to provide a response." ;]]></definition>
+</ilog.rules.studio.model.brl:ActionRule>
